@@ -1,0 +1,6 @@
+C:\Users\gcarranza\Documents\GitHub\Repaso2do\Entidades\bin\Debug\Entidades.dll
+C:\Users\gcarranza\Documents\GitHub\Repaso2do\Entidades\bin\Debug\Entidades.pdb
+C:\Users\gcarranza\Documents\GitHub\Repaso2do\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\gcarranza\Documents\GitHub\Repaso2do\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\gcarranza\Documents\GitHub\Repaso2do\Entidades\obj\Debug\Entidades.dll
+C:\Users\gcarranza\Documents\GitHub\Repaso2do\Entidades\obj\Debug\Entidades.pdb

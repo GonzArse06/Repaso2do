@@ -1,0 +1,13 @@
+C:\Users\gcarranza\Documents\GitHub\Repaso2do\Negocio\bin\Debug\Negocio.dll
+C:\Users\gcarranza\Documents\GitHub\Repaso2do\Negocio\bin\Debug\Negocio.pdb
+C:\Users\gcarranza\Documents\GitHub\Repaso2do\Negocio\bin\Debug\Datos.dll
+C:\Users\gcarranza\Documents\GitHub\Repaso2do\Negocio\bin\Debug\Entidades.dll
+C:\Users\gcarranza\Documents\GitHub\Repaso2do\Negocio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gcarranza\Documents\GitHub\Repaso2do\Negocio\bin\Debug\Datos.pdb
+C:\Users\gcarranza\Documents\GitHub\Repaso2do\Negocio\bin\Debug\Entidades.pdb
+C:\Users\gcarranza\Documents\GitHub\Repaso2do\Negocio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gcarranza\Documents\GitHub\Repaso2do\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\gcarranza\Documents\GitHub\Repaso2do\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\gcarranza\Documents\GitHub\Repaso2do\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\gcarranza\Documents\GitHub\Repaso2do\Negocio\obj\Debug\Negocio.dll
+C:\Users\gcarranza\Documents\GitHub\Repaso2do\Negocio\obj\Debug\Negocio.pdb

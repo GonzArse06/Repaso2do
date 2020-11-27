@@ -1,0 +1,11 @@
+C:\Users\gcarranza\Documents\GitHub\Repaso2do\Datos\bin\Debug\Datos.dll
+C:\Users\gcarranza\Documents\GitHub\Repaso2do\Datos\bin\Debug\Datos.pdb
+C:\Users\gcarranza\Documents\GitHub\Repaso2do\Datos\bin\Debug\Entidades.dll
+C:\Users\gcarranza\Documents\GitHub\Repaso2do\Datos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gcarranza\Documents\GitHub\Repaso2do\Datos\bin\Debug\Entidades.pdb
+C:\Users\gcarranza\Documents\GitHub\Repaso2do\Datos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gcarranza\Documents\GitHub\Repaso2do\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\gcarranza\Documents\GitHub\Repaso2do\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\gcarranza\Documents\GitHub\Repaso2do\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\gcarranza\Documents\GitHub\Repaso2do\Datos\obj\Debug\Datos.dll
+C:\Users\gcarranza\Documents\GitHub\Repaso2do\Datos\obj\Debug\Datos.pdb
